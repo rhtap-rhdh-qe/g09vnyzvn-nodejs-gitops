@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: g09vnyzvn-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/g09vnyzvn-nodejs
